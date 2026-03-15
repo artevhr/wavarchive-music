@@ -4,7 +4,7 @@
   "artist": "Имя артиста",
   "genre": "электронная",
   "duration": 214,
-  "file": "tracks/artist-name/Analog_Angels.mp3",
+  "file": "tracks/artist-slug/Analog_Angels.mp3",
   "cover": "covers/artist-name/track-name.jpg",
   "description": "Описание трека.",
   "tags": ["tag1", "tag2"],
