@@ -1,1 +1,12 @@
-
+{
+  "id": "t00001",
+  "title": "Название трека",
+  "artist": "Имя артиста",
+  "genre": "электронная",
+  "duration": 214,
+  "file": "tracks/artist-name/Analog_Angels.mp3",
+  "cover": "covers/artist-name/track-name.jpg",
+  "description": "Описание трека.",
+  "tags": ["tag1", "tag2"],
+  "addedAt": "2025-01-20"
+}
