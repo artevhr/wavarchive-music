@@ -18,7 +18,7 @@
     "genre": "электронная",
     "duration": 214,
     "file": "tracks/artist-slug/russian_emo.mp3",
-    "cover": cover/artist-slug/IMG_1054.jpeg,
+    "cover": "cover/artist-slug/IMG_1054.jpeg",
     "description": "",
     "tags": [],
     "addedAt": "2026-03-17"
