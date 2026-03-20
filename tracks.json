@@ -22,5 +22,17 @@
     "description": "",
     "tags": [],
     "addedAt": "2026-03-17"
+  },
+  {
+    "id": "krovprevratilasnechto",
+    "title": "кровь превратилась/нечто",
+    "artist": "Д Д Д",
+    "genre": "другое",
+    "duration": 255.6,
+    "file": "tracks/artist-slug/929-кровь превратилась(нечто).mp3",
+    "cover": "covers/artist-slug/кровьпревратиласьнечто.jpg",
+    "description": "",
+    "tags": [],
+    "addedAt": "2026-03-20"
   }
 ]
