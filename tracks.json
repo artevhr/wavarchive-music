@@ -48,19 +48,5 @@
     "description": "",
     "tags": [],
     "addedAt": "2026-03-20"
-  },
-  {
-    "id": "2_1_1774204763",
-    "title": "1",
-    "artist": "2",
-    "album": "3",
-    "genre": "другое",
-    "duration": 83,
-    "file": "tracks/2/1-1774204763.mp3",
-    "cover": "covers/2/1-1774204763.jpg",
-    "albumCover": null,
-    "description": "",
-    "tags": [],
-    "addedAt": "2026-03-22"
   }
 ]
